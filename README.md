@@ -2,7 +2,11 @@
 
 <div align="center">
     <img src="demo/heuristic-demo.gif">
-    <figcaption><em>A heuristic-driven tour completed by the program</em></figcaption>
+    <div align="center">
+        <figcaption>
+            <em>A heuristic-driven tour completed by the program</em>
+        </figcaption>
+    </div>
 </div>
 
 ## About
@@ -11,22 +15,26 @@ This program visualizes and solves the [Knight's tour problem](https://en.wikipe
 
 > "A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once." - Wikipedia
 
-### Manual Version 
+### :video_game: Manual Version 
 
 This version enables a user to control the knight to make a full tour based on the automatically generated suggestion and their intuition.
 
 <div align="center">
     <img src="demo/manual-demo.gif">
-    <figcaption><em>The knight's tour is controlled by the user</em></figcaption>
+    <div align="center">
+        <figcaption>
+            <em>The knight's tour is controlled by the user</em>
+        </figcaption>
+    </div>
 </div>
 
-### Heuristic Version
+### :airplane: Heuristic Version
 
 This version implements [Warnsdorff's heuristic](https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/) to complete a full tour automatically starting from each square on the chessboard.
 
 > "The knight is moved so that it always proceeds to the square from which the knight will have the fewest onward moves" - Wikipedia
 
-### Optimized Heuristic Version
+### :rocket: Optimized Heuristic Version
 
 This version implements the heuristic mentioned above, but when there are two or more choices for which the number of onward moves is equal, the program decides what square to choose by looking ahead to those choices.
 
@@ -58,7 +66,7 @@ $ cd out/production/knights-tour
     $ java OptimizedHeuristic
     ```
 
-## Stats
+## :trophy: Stats
 
 The result that I have after running the three versions of the program:
 
