@@ -1,7 +1,7 @@
 <h1 align="center">♞ Knight's Tour Visualization</h1>
 
 <div align="center">
-    <img src="demo/heuristic-demo.gif">
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/cNNfkfg/heuristic-demo.gif" alt="heuristic-demo" border="0"></a>
     <div align="center">
         <figcaption>
             <em>A heuristic-driven tour completed by the program</em>
@@ -20,7 +20,7 @@ This program visualizes and solves the [Knight's tour problem](https://en.wikipe
 This version enables a user to control the knight to make a full tour based on the automatically generated suggestion and their intuition.
 
 <div align="center">
-    <img src="demo/manual-demo.gif">
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/DrJVC90/manual-demo.gif" alt="manual-demo" border="0"></a>
     <div align="center">
         <figcaption>
             <em>The knight's tour is controlled by the user</em>
