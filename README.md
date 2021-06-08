@@ -11,7 +11,7 @@
 
 ## About
 
-This program visualizes and solves the [Knight's tour problem](https://en.wikipedia.org/wiki/Knight%27s_tour) in three ways using Java Swing.
+This program visualizes and solves the [Knight's tour problem](https://en.wikipedia.org/wiki/Knight%27s_tour) in three ways using Java Swing. Check out the [Live Demo](https://replit.com/@ptpham4/knights-tour) on Replit.
 
 > "A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once." - Wikipedia
 
